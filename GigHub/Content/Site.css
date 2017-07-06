@@ -1,6 +1,7 @@
 ﻿body {
     padding-top: 90px;
     padding-bottom: 20px;
+    font-size: 17px;
 }
 
 /* Set padding to keep content from hitting the edges */
@@ -60,10 +61,6 @@ span.field-validation-error {
     font-weight: 700;
 }
 
-body {
-    font-size: 17px;
-}
-
 body,
 h1,
 h2,
@@ -98,8 +95,8 @@ h6,
 }
 
 .btn {
-    font-size: 17px;
-    padding: 7px 20px;
+    /*font-size: 17px;
+    padding: 7px 20px;*/
     border-radius: 9px;
     /*-ms-border-radius: 9px;*/
 }
@@ -141,6 +138,7 @@ h6,
     position: absolute;
     top: 0;
     left: 70px;
+    width: 140px;
 }
 
 .gigs > li .details .artist {
